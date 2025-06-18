@@ -1,7 +1,7 @@
 # GALAXY\_SIM — Milky‑Way‑Style Galaxy Simulator
 
 **Version:** rev‑B (2025‑06‑17)
-**Author:** Derek Martinez
+**Authors:** Derek Martinez, Tim Yip, Darius Totah, Trevor Moore
 
 ---
 
